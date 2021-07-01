@@ -111,7 +111,7 @@ dependencies {
         exclude module: 'support-annotations'
         exclude module: 'jsr305'
     }
-    androidTestImplementation('androidx.test:runner:1.3.0') {
+    androidTestImplementation('androidx.test:runner:1.4.0') {
         exclude module: 'support-annotations'
     }
     androidTestImplementation('androidx.test:rules:1.3.0') {
